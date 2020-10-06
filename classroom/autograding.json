@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "prefix-words",
+      "setup": "",
+      "run": "python3 01_prefix_words.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "02_suffix_words",
+      "setup": "",
+      "run": "python3 02_suffix_words.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "03_are_anagrams",
+      "setup": "",
+      "run": "python3 03_are_anagrams.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "04_is_rotating_prime",
+      "setup": "",
+      "run": "python3 04_is_rotating_prime.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "05_clap_number",
+      "setup": "",
+      "run": "python3 05_clap_number.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
